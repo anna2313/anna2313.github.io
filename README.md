@@ -1,6 +1,7 @@
 # Anna Kerekes
-akerekes@ethz.ch
 <img src="20220326_175334.jpg" width="250">
+
+akerekes@ethz.ch
 
 ## Research Interest
 My research interests include, but are not limited to Machine Learning Theory, Bayesian Inference and Optimization. My academic foundation lies in the realm of Mathematics, particularly within the field of Statistics. I have previously worked on theoretical description of inductive biases and performance of optimization algorithms.
