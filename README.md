@@ -8,7 +8,9 @@ My research interests include, but are not limited to Machine Learning Theory, B
 
 ## Papers
 [Expressiveness Remarks for Denoising Diffusion Models and Samplers](https://arxiv.org/abs/2305.09605) Francisco Vargas, Teodora Reu, Anna Kerekes
+
 [Rethinking Sharpness-Aware Minimization as Variational Inference](https://arxiv.org/abs/2210.10452) Szilvia Ujváry, Zsigmond Telek, Anna Kerekes, Anna Mészáros, Ferenc Huszár
+
 [Depth Without the Magic: Inductive Bias of Natural Gradient Descent](https://arxiv.org/abs/2111.11542) Anna Kerekes, Anna Mészáros, Ferenc Huszár
 
 ## Online Presence
