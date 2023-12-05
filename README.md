@@ -7,9 +7,9 @@ akerekes@ethz.ch
 My research interests include, but are not limited to Machine Learning Theory, Bayesian Inference and Optimization. My academic foundation lies in the realm of Mathematics, particularly within the field of Statistics. I have previously worked on theoretical description of inductive biases and performance of optimization algorithms.
 
 ## Papers
-[Expressiveness Remarks for Denoising Diffusion Models and Samplers: Francisco Vargas, Teodora Reu, Anna Kerekes]{https://arxiv.org/abs/2305.09605}
-[Rethinking Sharpness-Aware Minimization as Variational Inference: Szilvia Ujváry, Zsigmond Telek, Anna Kerekes, Anna Mészáros, Ferenc Huszár]{https://arxiv.org/abs/2210.10452}
-[Depth Without the Magic: Inductive Bias of Natural Gradient Descent: Anna Kerekes, Anna Mészáros, Ferenc Huszár]{https://arxiv.org/abs/2111.11542}
+[Expressiveness Remarks for Denoising Diffusion Models and Samplers: Francisco Vargas, Teodora Reu, Anna Kerekes](https://arxiv.org/abs/2305.09605)
+[Rethinking Sharpness-Aware Minimization as Variational Inference: Szilvia Ujváry, Zsigmond Telek, Anna Kerekes, Anna Mészáros, Ferenc Huszár](https://arxiv.org/abs/2210.10452)
+[Depth Without the Magic: Inductive Bias of Natural Gradient Descent: Anna Kerekes, Anna Mészáros, Ferenc Huszár](https://arxiv.org/abs/2111.11542)
 
 ## Online Presence
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=hu&hl=hu&user=JI1kuu0AAAAJ)
