@@ -4,7 +4,7 @@
 akerekes@ethz.ch
 
 ## Research Interest
-My research interests include, but are not limited to Machine Learning Theory, Bayesian Inference and Optimization. My academic foundation lies in the realm of Mathematics, particularly within the field of Statistics. I have previously worked on theoretical description of inductive biases and performance of optimization algorithms.
+My research interests include, but are not limited to Machine Learning Theory, Bayesian Inference, and Optimization. My academic foundation lies in the realm of Mathematics, particularly within the field of Statistics. I have previously worked on the theoretical description of inductive biases and the performance of optimization algorithms.
 
 ## Papers
 [Expressiveness Remarks for Denoising Diffusion Models and Samplers](https://arxiv.org/abs/2305.09605) Francisco Vargas, Teodora Reu, Anna Kerekes
